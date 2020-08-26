@@ -1,2 +1,2 @@
 # twitch-app-clone
-A clone of Twitch Tv made in React Native.
+A clone of Twitch TV made in React Native.
