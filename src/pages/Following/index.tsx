@@ -8,6 +8,7 @@ import Heading from '../../components/Heading';
 import Title from '../../components/Title';
 import CategoryList from '../../components/CategoryList';
 import StreamList from '../../components/StreamList';
+import ChannelList from '../../components/ChannelList';
 interface Item {
   key: string;
   render: () => JSX.Element;
